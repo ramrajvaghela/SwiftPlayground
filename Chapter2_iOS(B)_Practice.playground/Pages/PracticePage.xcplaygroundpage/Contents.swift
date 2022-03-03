@@ -222,7 +222,6 @@ M1.multi(by: 30)
 print("Multiply value is:\(M1.count)")
 
 //Subscript in swift
-
 //inheritance in swift and init function in swift
 
 print("Inheritance in swift:::::")
